@@ -1,0 +1,45 @@
+*{
+    background-color: #8697c4;
+
+}
+#orange{
+    background-color: orange;
+    height: 5px;
+    position: relative;
+    
+    
+}
+#white{
+    position: relative;
+    background-color: white;
+    
+
+    height: 5px;
+}
+#ac{
+    position: absolute;
+    background-color: white;
+    left: 50%;
+    top: 13px;
+
+}
+#green{
+    background-color: green;
+    height: 5px;
+}
+h1,p{
+    font-family: monospace;text-align: center;text-transform: uppercase;
+}
+.black{
+    background-color: black;
+    color: whitesmoke;
+
+}
+h1{
+    font-size: 50px;
+    
+}
+#mains{
+    height: 200px;
+    
+}
